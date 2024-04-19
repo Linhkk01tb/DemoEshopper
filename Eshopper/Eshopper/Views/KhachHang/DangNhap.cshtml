@@ -1,0 +1,38 @@
+﻿@model Eshopper.ViewModels.DangNhapVM
+@{
+    ViewData["Title"] = "Đăng Nhập";
+}
+
+<div class="container-fluid py-5" style="max-width:700px">
+    <div class="container py-5">
+        <h1 class="mb-4">Đăng nhập</h1>
+        <form asp-route-returnurl="@ViewBag.ReturnUrl" asp-controller="KhachHang" asp-action="DangNhap" method="post" enctype="multipart/form-data">
+            <div class="text-danger" asp-asp-validation-summary="ModelOnly"></div>
+            <div class="row g-5">
+
+                <div class="form-item">
+                    <label asp-for="@Model.UserName" class="form-label my-3"></label><sup class="text-danger" style="margin-left:4px">*</sup>
+                    <input asp-for="@Model.UserName" class="form-control">
+                    <span asp-validation-for="@Model.UserName" class="text-danger"></span>
+                </div>
+
+
+                <div class="form-item">
+                    <label asp-for="@Model.Password" class="form-label my-3"></label><sup class="text-danger" style="margin-left:4px">*</sup>
+                    <input asp-for="@Model.Password" class="form-control">
+                    <span asp-validation-for="@Model.Password" class="text-danger"></span>
+                </div>
+
+                <div class="col-md-12 col-lg-6">
+                    <a asp-action="DangKy" asp-controller="KhachHang">Tạo tài khoản</a>
+                </div>
+                <div class="col-md-12 col-lg-6" >
+                    <a asp-action="QuenMatKhau" asp-controller="KhachHang">Quên mật khẩu?</a>
+                </div>
+                <div class="form-item">
+                    <button type="submit" class="btn border-secondary py-3 px-4 text-uppercase w-100 text-primary">Đăng nhập</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
