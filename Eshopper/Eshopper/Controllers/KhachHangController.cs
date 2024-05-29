@@ -29,7 +29,11 @@ namespace Eshopper.Controllers
         }
 
         [HttpPost]
+<<<<<<< HEAD
         public IActionResult DangKy(DangKyVM model, IFormFile? Hinh)
+=======
+        public async Task<IActionResult> DangKy(DangKyVM model, IFormFile? Hinh)
+>>>>>>> developer
         {
             if (ModelState.IsValid)
             {
@@ -42,7 +46,11 @@ namespace Eshopper.Controllers
                     taikhoan.VaiTro = 0;//Mặc định 0 là khách hàng
                     if (Hinh != null)
                     {
+<<<<<<< HEAD
                         taikhoan.Hinh = Util.UploadHinh(Hinh, "KhachHang");
+=======
+                        taikhoan.Hinh = await Util.UploadHinh(Hinh, "KhachHang");
+>>>>>>> developer
                     }
                     else
                     {
@@ -97,8 +105,14 @@ namespace Eshopper.Controllers
                         {
                             var claims = new List<Claim>
                             {
+<<<<<<< HEAD
                                 new Claim(ClaimTypes.Email, taikhoan.Email),
 								new Claim(ClaimTypes.Name, taikhoan.HoTen),
+=======
+								new Claim("Avatar", taikhoan.Hinh??""),
+								new Claim(ClaimTypes.Email, taikhoan.Email),
+								new Claim(ClaimTypes.Name, taikhoan.MaKh),
+>>>>>>> developer
 								new Claim("AccountId", taikhoan.MaKh),
                                 //claim động cho phân quyền
                                 new Claim(ClaimTypes.Role, "Customer")
@@ -134,7 +148,11 @@ namespace Eshopper.Controllers
 		public async Task<IActionResult> DangXuat()
 		{
             await HttpContext.SignOutAsync();
+<<<<<<< HEAD
 			return RedirectToAction("Index","Home");
+=======
+			return RedirectToAction("DangNhap","KhachHang");
+>>>>>>> developer
 		}
 		#endregion
 	}

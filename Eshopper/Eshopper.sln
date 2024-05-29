@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eshopper", "Eshopper\Eshopper.csproj", "{7E180983-5811-42B1-983A-C5EBCD42BCC7}"
+=======
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eshopper", "Eshopper\Eshopper.csproj", "{7E180983-5811-42B1-983A-C5EBCD42BCC7}"
+>>>>>>> developer
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

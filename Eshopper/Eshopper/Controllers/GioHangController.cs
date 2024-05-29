@@ -2,6 +2,10 @@
 using Eshopper.Helpers;
 using EShopper.Helpers;
 using EShopper.ViewModels;
+<<<<<<< HEAD
+=======
+using Microsoft.AspNetCore.Authorization;
+>>>>>>> developer
 using Microsoft.AspNetCore.Mvc;
 
 namespace EShop.Controllers
@@ -16,10 +20,18 @@ namespace EShop.Controllers
         }
         
         public List<GioHangItem> GioHang => HttpContext.Session.Get<List<GioHangItem>>(PrjConst.CART_KEY) ?? new List<GioHangItem>();
+<<<<<<< HEAD
+=======
+        [Authorize]
+>>>>>>> developer
         public IActionResult Index()
         {
             return View(GioHang);
         }
+<<<<<<< HEAD
+=======
+        [Authorize]
+>>>>>>> developer
         public IActionResult ThemVaoGioHang(int id, int soluong = 1)
         {
             var giohang = GioHang;
@@ -50,6 +62,10 @@ namespace EShop.Controllers
             return RedirectToAction("Index");
 
         }
+<<<<<<< HEAD
+=======
+        [Authorize]
+>>>>>>> developer
         public IActionResult XoaKhoiGioHang(int id)
         {
             var giohang = GioHang;

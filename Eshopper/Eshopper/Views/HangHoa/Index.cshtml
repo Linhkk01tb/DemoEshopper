@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 ﻿@model IEnumerable<EShopper.ViewModels.HangHoaVM>
+=======
+﻿@using X.PagedList;
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<EShopper.ViewModels.HangHoaVM>
+>>>>>>> developer
 @{
     ViewData["Title"] = "Index";
     Layout = "_DanhSachHangHoa";
@@ -24,6 +30,7 @@
 
 <div class="col-12">
     <div class="pagination d-flex justify-content-center mt-5">
+<<<<<<< HEAD
         <a href="#" class="rounded">&laquo;</a>
         <a href="#" class="active rounded">1</a>
         <a href="#" class="rounded">2</a>
@@ -35,4 +42,33 @@
     </div>
 </div>
 
+=======
+        @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+    </div>
+</div>
+
+<style>
+    .pagination {
+        display: flex; !important
+    }
+
+        .pagination span{
+            color: var(--bs-dark);
+            padding: 10px 16px;
+            text-decoration: none;
+            transition: 0.5s;
+            border: 1px solid var(--bs-secondary);
+            margin: 0 4px;
+            background-color: #81c408;
+        }
+        .pagination a{
+            color: var(--bs-dark);
+            padding: 10px 16px;
+            text-decoration: none;
+            transition: 0.5s;
+            border: 1px solid var(--bs-secondary);
+            margin: 0 4px;
+        }
+</style>
+>>>>>>> developer
 <!-- Fruits Shop End-->

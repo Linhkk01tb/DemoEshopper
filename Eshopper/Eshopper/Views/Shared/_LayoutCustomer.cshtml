@@ -78,11 +78,20 @@
 							<button class="btn-search btn border border-secondary btn-md-square rounded-circle bg-white me-4" data-bs-toggle="modal" data-bs-target="#searchModal"><i class="fas fa-search text-primary"></i></button>
 							@await Component.InvokeAsync("GioHang")
 							<div class="nav-item dropdown my-auto">
+<<<<<<< HEAD
 								<a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">
 									<i class="fas fa-user fa-2x"></i>
 								</a>
 								@if (!User.Identity.IsAuthenticated)
 								{
+=======
+								
+								@if (!User.Identity.IsAuthenticated)
+								{
+									<a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">
+										<i class="fas fa-user fa-2x"></i>
+									</a>
+>>>>>>> developer
 									<div class="dropdown-menu m-0 bg-secondary rounded-0">
 										<a asp-controller="KhachHang" asp-action="DangNhap" class="dropdown-item">Đăng nhập</a>
 										<a asp-controller="KhachHang" asp-action="DangKy" class="dropdown-item">Đăng ký</a>
@@ -90,6 +99,12 @@
 								}
 								else
 								{
+<<<<<<< HEAD
+=======
+									<a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" title="@Context.User.Identity.Name">
+										<img src="~/Hinh/KhachHang/@Context.User.FindFirst("Avatar").Value" style="width:32px;height:32px;" />
+									</a>
+>>>>>>> developer
 									<div class="dropdown-menu m-0 bg-secondary rounded-0">
 										<a asp-controller="KhachHang" asp-action="Profile" class="dropdown-item">Profile</a>
 										<a asp-controller="KhachHang" asp-action="DangXuat" class="dropdown-item">Đăng xuất</a>

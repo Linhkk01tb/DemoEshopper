@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "Cwirg2RxFuyOb4uJxYxNZlGekqEtX+KMCxe0e0nlsAw=",
+=======
+  "Hash": "ylTZEhjry273V2NSD49OxQYkPj6E/UBADgXpTnCFeI4=",
+>>>>>>> developer
   "Source": "Eshopper",
   "BasePath": "_content/Eshopper",
   "Mode": "Default",
@@ -5147,6 +5151,28 @@
       "OriginalItemSpec": "wwwroot\\Hinh\\icons\\Zoom.png"
     },
     {
+<<<<<<< HEAD
+=======
+      "Identity": "E:\\webbanhang\\Eshopper\\Eshopper\\wwwroot\\Hinh\\KhachHang\\9.jpg",
+      "SourceId": "Eshopper",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\webbanhang\\Eshopper\\Eshopper\\wwwroot\\",
+      "BasePath": "_content/Eshopper",
+      "RelativePath": "Hinh/KhachHang/9.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Hinh\\KhachHang\\9.jpg"
+    },
+    {
+>>>>>>> developer
       "Identity": "E:\\webbanhang\\Eshopper\\Eshopper\\wwwroot\\Hinh\\KhachHang\\android_300200.png",
       "SourceId": "Eshopper",
       "SourceType": "Discovered",
@@ -5185,6 +5211,28 @@
       "OriginalItemSpec": "wwwroot\\Hinh\\KhachHang\\Author.jpg"
     },
     {
+<<<<<<< HEAD
+=======
+      "Identity": "E:\\webbanhang\\Eshopper\\Eshopper\\wwwroot\\Hinh\\KhachHang\\calendar.png",
+      "SourceId": "Eshopper",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\webbanhang\\Eshopper\\Eshopper\\wwwroot\\",
+      "BasePath": "_content/Eshopper",
+      "RelativePath": "Hinh/KhachHang/calendar.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Hinh\\KhachHang\\calendar.png"
+    },
+    {
+>>>>>>> developer
       "Identity": "E:\\webbanhang\\Eshopper\\Eshopper\\wwwroot\\Hinh\\KhachHang\\man.jpg",
       "SourceId": "Eshopper",
       "SourceType": "Discovered",

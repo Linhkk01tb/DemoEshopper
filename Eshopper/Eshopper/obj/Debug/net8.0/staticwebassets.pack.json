@@ -333,6 +333,13 @@
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\To.gif"
     },
     {
+<<<<<<< HEAD
+=======
+      "Id": "E:\\webbanhang\\Eshopper\\Eshopper\\wwwroot\\Hinh\\KhachHang\\9.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\KhachHang\\9.jpg"
+    },
+    {
+>>>>>>> developer
       "Id": "E:\\webbanhang\\Eshopper\\Eshopper\\wwwroot\\Hinh\\KhachHang\\Author.jpg",
       "PackagePath": "staticwebassets\\Hinh\\KhachHang\\Author.jpg"
     },
@@ -345,6 +352,13 @@
       "PackagePath": "staticwebassets\\Hinh\\KhachHang\\android_300200.png"
     },
     {
+<<<<<<< HEAD
+=======
+      "Id": "E:\\webbanhang\\Eshopper\\Eshopper\\wwwroot\\Hinh\\KhachHang\\calendar.png",
+      "PackagePath": "staticwebassets\\Hinh\\KhachHang\\calendar.png"
+    },
+    {
+>>>>>>> developer
       "Id": "E:\\webbanhang\\Eshopper\\Eshopper\\wwwroot\\Hinh\\KhachHang\\man.jpg",
       "PackagePath": "staticwebassets\\Hinh\\KhachHang\\man.jpg"
     },

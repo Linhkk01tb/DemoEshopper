@@ -2,6 +2,10 @@
 using EShopper.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+<<<<<<< HEAD
+=======
+using X.PagedList;
+>>>>>>> developer
 
 namespace EShop.Controllers
 {
@@ -20,8 +24,15 @@ namespace EShop.Controllers
         {
             db = context;
         }
+<<<<<<< HEAD
         public IActionResult Index(int? loaihang)
         {
+=======
+        public IActionResult Index(int? loaihang, int ? page)
+        {
+            var pageSize = 12;
+            var pageNumber = (page ?? 1);
+>>>>>>> developer
             var hangHoas = db.HangHoas.AsQueryable();
             if (loaihang.HasValue)
             {
@@ -37,7 +48,11 @@ namespace EShop.Controllers
                 MoTaNgan = p.MoTaDonVi ?? "",
                 TenLoai = p.MaLoaiNavigation.TenLoai
             });
+<<<<<<< HEAD
             return View(result);
+=======
+            return View(result.ToPagedList(pageNumber,pageSize));
+>>>>>>> developer
         }
         public IActionResult Search(string? query)
         {
