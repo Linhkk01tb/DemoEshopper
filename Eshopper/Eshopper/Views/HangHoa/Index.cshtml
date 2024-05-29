@@ -1,0 +1,56 @@
+﻿@using X.PagedList;
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<EShopper.ViewModels.HangHoaVM>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "_DanhSachHangHoa";
+}
+
+<!-- Single Page Header start -->
+@section SoDo {
+    <div class="container-fluid page-header py-5">
+        <h1 class="text-center text-white display-6">Shop</h1>
+        <ol class="breadcrumb justify-content-center mb-0">
+            <li class="breadcrumb-item"><a href="#">Home</a></li>
+            <li class="breadcrumb-item"><a href="#">Pages</a></li>
+            <li class="breadcrumb-item active text-white">Shop</li>
+        </ol>
+    </div>
+}
+<!-- Single Page Header End -->
+<!-- Fruits Shop Start-->
+@await Html.PartialAsync("ProductItems", Model)
+
+
+
+
+<div class="col-12">
+    <div class="pagination d-flex justify-content-center mt-5">
+        @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+    </div>
+</div>
+
+<style>
+    .pagination {
+        display: flex; !important
+    }
+
+        .pagination span{
+            color: var(--bs-dark);
+            padding: 10px 16px;
+            text-decoration: none;
+            transition: 0.5s;
+            border: 1px solid var(--bs-secondary);
+            margin: 0 4px;
+            background-color: #81c408;
+        }
+        .pagination a{
+            color: var(--bs-dark);
+            padding: 10px 16px;
+            text-decoration: none;
+            transition: 0.5s;
+            border: 1px solid var(--bs-secondary);
+            margin: 0 4px;
+        }
+</style>
+<!-- Fruits Shop End-->

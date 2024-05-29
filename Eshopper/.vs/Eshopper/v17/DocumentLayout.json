@@ -1,0 +1,559 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\webbanhang\\Eshopper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\helpers\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\helpers\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\viewmodels\\dangkyvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\viewmodels\\dangkyvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\eshopper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\eshopper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\LinhDGT_Electronic\\LinhDGT_Electronic\\LinhDGT_Electronic\\Areas\\Admin\\Controllers\\SanPhamController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\views\\khachhang\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\views\\khachhang\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\data\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\data\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\views\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\views\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\viewmodels\\dangnhapvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\viewmodels\\dangnhapvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\views\\khachhang\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\views\\khachhang\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\helpers\\dataencrytionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\helpers\\dataencrytionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\wwwroot\\chackout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\wwwroot\\chackout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\viewcomponents\\giohangviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\viewcomponents\\giohangviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\viewmodels\\giohangmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\viewmodels\\giohangmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\views\\shared\\components\\giohang\\giohangcomponent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\views\\shared\\components\\giohang\\giohangcomponent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\views\\giohang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\views\\giohang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\views\\shared\\components\\menuloaihang\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\views\\shared\\components\\menuloaihang\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\views\\hanghoa\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\views\\hanghoa\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\views\\hanghoa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\views\\hanghoa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\viewcomponents\\menuloaihangviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\viewcomponents\\menuloaihangviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\viewmodels\\menuloaihangvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\viewmodels\\menuloaihangvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\viewmodels\\hanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\viewmodels\\hanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\viewmodels\\chitiethanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\viewmodels\\chitiethanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|e:\\webbanhang\\eshopper\\eshopper\\data\\hshop2023context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E180983-5811-42B1-983A-C5EBCD42BCC7}|Eshopper\\Eshopper.csproj|solutionrelative:eshopper\\data\\hshop2023context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LayoutCustomer.cshtml",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeDocumentMoniker": "Eshopper\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeToolTip": "Eshopper\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAGgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T09:45:02.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Eshopper\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Eshopper\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T10:16:06.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DangKyVM.cs",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\ViewModels\\DangKyVM.cs",
+              "RelativeDocumentMoniker": "Eshopper\\ViewModels\\DangKyVM.cs",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\ViewModels\\DangKyVM.cs",
+              "RelativeToolTip": "Eshopper\\ViewModels\\DangKyVM.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T09:53:07.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "Eshopper\\Controllers\\KhachHangController.cs",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "Eshopper\\Controllers\\KhachHangController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwC4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T13:49:25.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Util.cs",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\Helpers\\Util.cs",
+              "RelativeDocumentMoniker": "Eshopper\\Helpers\\Util.cs",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\Helpers\\Util.cs",
+              "RelativeToolTip": "Eshopper\\Helpers\\Util.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:37:19.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GioHangController.cs",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\Controllers\\GioHangController.cs",
+              "RelativeDocumentMoniker": "Eshopper\\Controllers\\GioHangController.cs",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\Controllers\\GioHangController.cs",
+              "RelativeToolTip": "Eshopper\\Controllers\\GioHangController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCIAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T17:20:35.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Eshopper.csproj",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\Eshopper.csproj",
+              "RelativeDocumentMoniker": "Eshopper\\Eshopper.csproj",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\Eshopper.csproj",
+              "RelativeToolTip": "Eshopper\\Eshopper.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-12T17:02:19.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DangNhap.cshtml",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\Views\\KhachHang\\DangNhap.cshtml",
+              "RelativeDocumentMoniker": "Eshopper\\Views\\KhachHang\\DangNhap.cshtml",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\Views\\KhachHang\\DangNhap.cshtml",
+              "RelativeToolTip": "Eshopper\\Views\\KhachHang\\DangNhap.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T09:30:36.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\Program.cs",
+              "RelativeDocumentMoniker": "Eshopper\\Program.cs",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\Program.cs",
+              "RelativeToolTip": "Eshopper\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:39:51.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "E:\\LinhDGT_Electronic\\LinhDGT_Electronic\\LinhDGT_Electronic\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "..\\..\\LinhDGT_Electronic\\LinhDGT_Electronic\\LinhDGT_Electronic\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "ToolTip": "E:\\LinhDGT_Electronic\\LinhDGT_Electronic\\LinhDGT_Electronic\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "..\\..\\LinhDGT_Electronic\\LinhDGT_Electronic\\LinhDGT_Electronic\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:07:31.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "Eshopper\\Controllers\\HangHoaController.cs",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "Eshopper\\Controllers\\HangHoaController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T17:20:16.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DangNhapVM.cs",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\ViewModels\\DangNhapVM.cs",
+              "RelativeDocumentMoniker": "Eshopper\\ViewModels\\DangNhapVM.cs",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\ViewModels\\DangNhapVM.cs",
+              "RelativeToolTip": "Eshopper\\ViewModels\\DangNhapVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T08:51:37.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\Views\\HangHoa\\Index.cshtml",
+              "RelativeDocumentMoniker": "Eshopper\\Views\\HangHoa\\Index.cshtml",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\Views\\HangHoa\\Index.cshtml",
+              "RelativeToolTip": "Eshopper\\Views\\HangHoa\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T12:55:44.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\Data\\KhachHang.cs",
+              "RelativeDocumentMoniker": "Eshopper\\Data\\KhachHang.cs",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\Data\\KhachHang.cs",
+              "RelativeToolTip": "Eshopper\\Data\\KhachHang.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:01:37.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\Views\\KhachHang\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Eshopper\\Views\\KhachHang\\Profile.cshtml",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\Views\\KhachHang\\Profile.cshtml",
+              "RelativeToolTip": "Eshopper\\Views\\KhachHang\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T10:36:32.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\Views\\KhachHang\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "Eshopper\\Views\\KhachHang\\DangKy.cshtml",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\Views\\KhachHang\\DangKy.cshtml",
+              "RelativeToolTip": "Eshopper\\Views\\KhachHang\\DangKy.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAIBJwD8AAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T10:10:49.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DataEncrytionExtensions.cs",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\Helpers\\DataEncrytionExtensions.cs",
+              "RelativeDocumentMoniker": "Eshopper\\Helpers\\DataEncrytionExtensions.cs",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\Helpers\\DataEncrytionExtensions.cs",
+              "RelativeToolTip": "Eshopper\\Helpers\\DataEncrytionExtensions.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:43:43.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\Helpers\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Eshopper\\Helpers\\AutoMapperProfile.cs",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\Helpers\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Eshopper\\Helpers\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIAwwAoAAACHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:18:25.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GioHangViewComponent.cs",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\ViewComponents\\GioHangViewComponent.cs",
+              "RelativeDocumentMoniker": "Eshopper\\ViewComponents\\GioHangViewComponent.cs",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\ViewComponents\\GioHangViewComponent.cs",
+              "RelativeToolTip": "Eshopper\\ViewComponents\\GioHangViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwBAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T09:05:31.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "chackout.html",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\wwwroot\\chackout.html",
+              "RelativeDocumentMoniker": "Eshopper\\wwwroot\\chackout.html",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\wwwroot\\chackout.html",
+              "RelativeToolTip": "Eshopper\\wwwroot\\chackout.html",
+              "ViewState": "AQIAADUBAAAAAAAAAAAiwD8BAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-13T10:13:49.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GioHangComponent.cshtml",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\Views\\Shared\\Components\\GioHang\\GioHangComponent.cshtml",
+              "RelativeDocumentMoniker": "Eshopper\\Views\\Shared\\Components\\GioHang\\GioHangComponent.cshtml",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\Views\\Shared\\Components\\GioHang\\GioHangComponent.cshtml",
+              "RelativeToolTip": "Eshopper\\Views\\Shared\\Components\\GioHang\\GioHangComponent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T09:24:14.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\Views\\GioHang\\Index.cshtml",
+              "RelativeDocumentMoniker": "Eshopper\\Views\\GioHang\\Index.cshtml",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\Views\\GioHang\\Index.cshtml",
+              "RelativeToolTip": "Eshopper\\Views\\GioHang\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBZwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T17:57:41.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GioHangModel.cs",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\ViewModels\\GioHangModel.cs",
+              "RelativeDocumentMoniker": "Eshopper\\ViewModels\\GioHangModel.cs",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\ViewModels\\GioHangModel.cs",
+              "RelativeToolTip": "Eshopper\\ViewModels\\GioHangModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T09:19:13.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\Views\\HangHoa\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Eshopper\\Views\\HangHoa\\Detail.cshtml",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\Views\\HangHoa\\Detail.cshtml",
+              "RelativeToolTip": "Eshopper\\Views\\HangHoa\\Detail.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAACBjwDgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T17:21:30.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\Views\\Shared\\Components\\MenuLoaiHang\\Default.cshtml",
+              "RelativeDocumentMoniker": "Eshopper\\Views\\Shared\\Components\\MenuLoaiHang\\Default.cshtml",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\Views\\Shared\\Components\\MenuLoaiHang\\Default.cshtml",
+              "RelativeToolTip": "Eshopper\\Views\\Shared\\Components\\MenuLoaiHang\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T17:21:52.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Eshopper\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Eshopper\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T17:22:21.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\Views\\HangHoa\\Search.cshtml",
+              "RelativeDocumentMoniker": "Eshopper\\Views\\HangHoa\\Search.cshtml",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\Views\\HangHoa\\Search.cshtml",
+              "RelativeToolTip": "Eshopper\\Views\\HangHoa\\Search.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T17:21:10.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Eshopper\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Eshopper\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T17:19:16.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MenuLoaiHangViewComponent.cs",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\ViewComponents\\MenuLoaiHangViewComponent.cs",
+              "RelativeDocumentMoniker": "Eshopper\\ViewComponents\\MenuLoaiHangViewComponent.cs",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\ViewComponents\\MenuLoaiHangViewComponent.cs",
+              "RelativeToolTip": "Eshopper\\ViewComponents\\MenuLoaiHangViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T17:18:38.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MenuLoaiHangVM.cs",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\ViewModels\\MenuLoaiHangVM.cs",
+              "RelativeDocumentMoniker": "Eshopper\\ViewModels\\MenuLoaiHangVM.cs",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\ViewModels\\MenuLoaiHangVM.cs",
+              "RelativeToolTip": "Eshopper\\ViewModels\\MenuLoaiHangVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T17:18:30.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HangHoaVM.cs",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\ViewModels\\HangHoaVM.cs",
+              "RelativeDocumentMoniker": "Eshopper\\ViewModels\\HangHoaVM.cs",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\ViewModels\\HangHoaVM.cs",
+              "RelativeToolTip": "Eshopper\\ViewModels\\HangHoaVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T17:18:22.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ChiTietHangHoaVM.cs",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\ViewModels\\ChiTietHangHoaVM.cs",
+              "RelativeDocumentMoniker": "Eshopper\\ViewModels\\ChiTietHangHoaVM.cs",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\ViewModels\\ChiTietHangHoaVM.cs",
+              "RelativeToolTip": "Eshopper\\ViewModels\\ChiTietHangHoaVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T17:18:03.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Hshop2023Context.cs",
+              "DocumentMoniker": "E:\\webbanhang\\Eshopper\\Eshopper\\Data\\Hshop2023Context.cs",
+              "RelativeDocumentMoniker": "Eshopper\\Data\\Hshop2023Context.cs",
+              "ToolTip": "E:\\webbanhang\\Eshopper\\Eshopper\\Data\\Hshop2023Context.cs",
+              "RelativeToolTip": "Eshopper\\Data\\Hshop2023Context.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAqwDcAAACOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T17:11:18.402Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
